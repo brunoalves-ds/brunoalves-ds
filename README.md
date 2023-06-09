@@ -1,7 +1,7 @@
 ### Opa. Bruno aqui !
          
 
-<p> Sou cientista de dados, formado em administração e em tecnologia da informação. Apaixonado em Python e exploração de dados. Desde os 15 anos de idade eu analiso dados, sejam eles quais forem. </p>
+<p> Sou cientista de dados, formado em administração e em tecnologia da informação. Apaixonado em Python e exploração e manipulação dos dados. </p>
          
 <p>No cotidiano ou em meios empresariais, os dados nos mostram um caminho a ser visto ou a se trilhar. </p>
 
