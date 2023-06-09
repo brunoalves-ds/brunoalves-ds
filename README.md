@@ -1,7 +1,9 @@
 ### Opa. Bruno aqui !
          
 
-<p> Sou cientista de dados, apaixonado em Python e exploração de dados. Desde os 15 anos de idade eu analiso dados, sejam eles quais forem. No cotidiano ou em meios empresariais, os dados nos mostram um caminho a ser visto ou a se trilhar. </p>
+<p> Sou cientista de dados, apaixonado em Python e exploração de dados. Desde os 15 anos de idade eu analiso dados, sejam eles quais forem. </p>
+         
+<p>No cotidiano ou em meios empresariais, os dados nos mostram um caminho a ser visto ou a se trilhar. </p>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-alves-ds/) [![Streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brunoalves-ds)
      
